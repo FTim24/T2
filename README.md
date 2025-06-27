@@ -1,7 +1,7 @@
 # T2
-# 💻 Projeto: Exercícios de JavaScript – Controle, Funções, Arrays e Objetos
+#  Projeto: Exercícios de JavaScript – Controle, Funções, Arrays e Objetos
 
-## 📚 Descrição Geral
+##  Descrição Geral
 
 Este repositório contém a implementação de **9 exercícios práticos** em JavaScript, desenvolvidos com o objetivo de consolidar conhecimentos sobre **estruturas de controle**, **funções (inclusive recursivas)**, **funções de ordem superior**, além de manipulação avançada de **arrays**, **objetos** e **padrões de otimização**, como *memoization* e *debounce*.
 
@@ -13,9 +13,9 @@ Os exercícios foram organizados em três seções temáticas:
 
 ---
 
-## 📌 Lista de Exercícios
+##  Lista de Exercícios
 
-### 🔹 Seção 1 – Estruturas de Controle Avançadas
+###  Seção 1 – Estruturas de Controle Avançadas
 
 1. **Validação de Datas**
    - Função `ehDataValida(dia, mes, ano)` que verifica se uma data é válida considerando anos bissextos e dias permitidos por mês.
@@ -28,7 +28,7 @@ Os exercícios foram organizados em três seções temáticas:
 
 ---
 
-### 🔹 Seção 2 – Funções e Recursão
+###  Seção 2 – Funções e Recursão
 
 4. **Fatorial Recursivo**
    - Função `fatorial(n)` que implementa cálculo de fatorial recursivamente. Lança erro para valores negativos e retorna 1 quando `n === 0`.
@@ -41,7 +41,7 @@ Os exercícios foram organizados em três seções temáticas:
 
 ---
 
-### 🔹 Seção 3 – Arrays e Objetos Complexos
+###  Seção 3 – Arrays e Objetos Complexos
 
 7. **Mapeamento e Ordenação**
    - Função que recebe um array de objetos `{ nome, preco }`, ordena por `preco` crescente e retorna apenas os nomes.
@@ -55,7 +55,7 @@ Os exercícios foram organizados em três seções temáticas:
 
 ---
 
-## ⚙️ Tecnologias e Ambiente
+##  Tecnologias e Ambiente
 
 - Linguagem: **JavaScript (ES6+)**
 - Ambiente de execução: **Node.js**
@@ -63,7 +63,7 @@ Os exercícios foram organizados em três seções temáticas:
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Clone o repositório:
    ```bash
